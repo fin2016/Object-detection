@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.obaskakov.assignment12;
+package com.assignment12;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -21,7 +21,7 @@ import java.util.Arrays;
  * and in the constructor of that thread, the fourth parameter can be used
  * to set the size of the stack for that thread.
  */
-public class Assignment12Part1 {
+public class Assignment12 {
 
     /**
      * Input point of the program.
